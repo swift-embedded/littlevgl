@@ -1,0 +1,5 @@
+
+module CLittlevGL {
+    header "lvgl.h"
+    export *
+}
